@@ -4,7 +4,7 @@ A tiny sandbox repo for practicing the GitHub pull request workflow: branch, com
 
 ## What this is
 
-This repo exsits so you can safely try out opening a pull request without touching real project code. Feel free to make small changes and open PRs against it.
+This repo exists so you can safely try out opening a pull request without touching real project code. Feel free to make small changes and open PRs against it.
 
 ## Getting started
 
